@@ -1,7 +1,7 @@
 # Herzlich Willkommen bei SEW3!
 
 ## 0. Wichtige Links
-* SEW-Repository: [3AHIT Classroom](https://classroom.github.com/a/vPV9zgj9)
+* SEW-Repository: [3AHIT Classroom](https://classroom.github.com/a/QeLa6qQ1)
 * Hilfe bekommst du fast immer hier:
 	+ [Stack Overflow](http://stackoverflow.com)
 
@@ -25,7 +25,7 @@ Bei korrekter Konfiguration erkennt auch IntelliJ in den Unterprojekten, dass es
 
 ### 1.2 Erstelle deine Repository
 Deine persönliche Repository für dieses Schuljahr findest du hier: 
-* [3AHIT Classroom](https://classroom.github.com/a/vPV9zgj9)
+* [3AHIT Classroom](https://classroom.github.com/a/QeLa6qQ1)
 
 
 ### 1.3 ".gitignore"

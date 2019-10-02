@@ -3,7 +3,7 @@
 Implementiere eine Hello World App mit SceneBuilder
 
 ## Aufgabe 1:
-- [ ] Das Programm soll Hello World über ein Label ausgeben
+- [ ] Das Programm soll Hello World über ein Label ausgeben
 
 ## Aufgabe 2:
 - [ ] Das Label zeigt zu Beginn nichts an

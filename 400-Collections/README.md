@@ -1,3 +1,3 @@
 # 400 Collections Übungen
 
-- [ ] [401_Smurfs](401_Smurfs/README.md)
+- [ ] [401-Smurfs](401-Smurfs/README.md)

@@ -17,7 +17,8 @@ Implementiere ein Klassensystem für den Aufbau und die Abfrage eines Zugfahrpla
 Teste die Klassen indem du einen Zugfahrplan erstellst und befüllst. Gib alle Züge mit folgender Formatierung aus:
 
 
-```  		Transalpin (Wien  -  Salzburg)
+```  		
+      Transalpin (Wien  -  Salzburg)
   			9:10 Wien (8)
   			10:10 St. Pölten (2)
   			....

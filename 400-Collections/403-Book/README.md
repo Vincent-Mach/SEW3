@@ -22,7 +22,7 @@ Fontane: "Effi Briest" Auflage: 10000 Stueck *** in sortierter Reihenfolge *** F
 
 Schiller: "Wilhelm Tell" Auflage: 10000 Stueck
 ```
-: Um eine Sortierung in der gewünschten Form zu erhalten, müssen Sie in die Klasse `Book` die Methode `compareTo` implementieren.
+Um eine Sortierung in der gewünschten Form zu erhalten, müssen Sie in die Klasse `Book` die Methode `compareTo` implementieren.
 
 7. Verwenden Sie für die Bücherverwaltung eine `HashMap`. Füllen Sie diese mit den Büchern des Arrays. Als Schlüssel soll der laufende Index verwendet werden. Geben Sie anschließend die Bücher der `HashMap` aus (ohne Index).
 Definieren Sie nun eine `TreeMap`, die die gleichen Elemente enthält wie die `HashMap`, und geben Sie sie ebenfalls aus.

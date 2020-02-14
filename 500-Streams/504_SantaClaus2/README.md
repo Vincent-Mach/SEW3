@@ -1,6 +1,7 @@
 # 504_SantaClaus2
 Im Zuge von Einsparungen soll am Nordpol der bisherige Workﬂow auf eine EDV gestützte Lösung (SAP - Santas Arbeits Programm) umgestellt werden.
 
+![SantaClaus](https://img1.goodfon.com/wallpaper/nbig/f/7f/santa-klaus-elka-elka.jpg)
 
 Bisher war die Arbeitsweise wie folgt:
 

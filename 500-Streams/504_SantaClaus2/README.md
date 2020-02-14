@@ -26,7 +26,8 @@ Kinder.csv:
       Susi;brav;
       Harald;nicht brav;
       Erich;brav;
-      Ferdinand;nicht brav; ...
+      Ferdinand;nicht brav; 
+      ...
 ```
 
 sowie

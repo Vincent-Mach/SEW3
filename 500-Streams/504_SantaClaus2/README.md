@@ -34,7 +34,8 @@ sowie
 Wunschliste.csv:
 
 ```  		
-    Name;Wunsch;Kosten;Gewicht;
+    Name;Wunsch;
+    Kosten;Gewicht;
     Thomas;Harley Davidson Chromteile; 299.90; 0.5;
     Thomas;Ring;200;0.01;
     Franzi;Das große Buch der Proxies;49.50;2;

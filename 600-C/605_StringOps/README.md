@@ -3,9 +3,9 @@
 Schreibe ein C-Programm zur Arbeit mit Strings/Zeichenketten.
 
 Dein Programm soll folgende Funktionen beinhalten:
-- `strlen`: bestimmt die Länge einer Zeichenkette und gibt diese als Rückgabewert zurück
-- `strcpy`: kopiert einen String in einen anderen, kein Rückgabewert
-- `strcmp`: vergleicht zwei übergebene Strings, Rückgabewert:
+- `strlength`: bestimmt die Länge einer Zeichenkette und gibt diese als Rückgabewert zurück
+- `strcopy`: kopiert einen String in einen anderen, kein Rückgabewert
+- `strcomp`: vergleicht zwei übergebene Strings, Rückgabewert:
   - -1, falls der erste String vor dem 2. String kommt
   - 0, falls beide Strings gleich sind
   - 1, falls der erste nach dem zweiten String kommt

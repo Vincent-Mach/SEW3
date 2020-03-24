@@ -1,8 +1,8 @@
 # 606_StringHelper
 
 Schreibe ein Programm, welches diverse Hilfunktionen für die Arbeit mit Zeichen enthält. Folgende Funktionen sind zu realisieren:
-- `toLower`: wandelt ein Zeichen, respektive eine Zeichenkette in Kleinbuchstaben um
-- `toUpper`: wandelt ein Zeichen, respektive eine Zeichenkette in Großbuchstaben um
+- `toLower`: wandelt ein Zeichen in Kleinbuchstaben um
+- `toUpper`: wandelt ein Zeichen in Großbuchstaben um
 - `isLower`: prüft, ob ein Zeichen ein Kleinbuchstabe ist, Rückgabewert boolean
 - `isUpper`: prüft, ob ein Zeichen ein Großbuchstabe ist, Rückgabewert boolean
 - `isPunct`: prüft, ob ein Zeichen ein Satzzeichen, wie Punkt, Beistrich, Semikolon, Frage-/Rufzeichen ist, Rückgabewert boolean

@@ -21,16 +21,17 @@ int main ()
 	int moves = 0;
 	int won = 0;
 
-    init_arena(arena);
+	init_arena(arena);
 	printf ("WELCOME TO TIC-TAC-TOE!\n\n");
-	do
-	{
-        print_player_info (moves);
-        player_input(moves, arena);
+	
+	do {
+		print_player_info (moves);
+		player_input(moves, arena);
         print_arena(arena);
         won = check_for_win(moves, arena);
 		moves++;
 	} while ((moves < MAX_ARENA * MAX_ARENA) && !won);
+	
 	if (moves == MAX_ARENA * MAX_ARENA) printf ("Draw! No winner this time!\n");
 	return 0;
 }

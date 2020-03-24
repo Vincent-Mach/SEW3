@@ -10,8 +10,8 @@ Man unterscheidet zwischen:
 
 ## Aufgabe:
 Schreibe ein Programm, welches basierend auf deinen Funktionen aus 605_StringOs bzw. 606_StringHelper ein Palindrom erkennen kann.
-Das Programm soll Wort und Satzpalindrome erkennen können.
+Das Programm soll Wort und Satzpalindrome erkennen können. Sätze können mehrere Wörter, als auch Satzzeichen enthalten - diese müssen aber für die Erkennung des Satzpalindroms ignoriert werden!
 
 Realisiere die beiden Funktionen und teste es in der main() Funktion ausführlich:
 - isPalindrome(...)
-- isPhrasePalindrome(...) 
+- isPhrasePalindrome(...)

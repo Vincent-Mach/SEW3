@@ -27,8 +27,8 @@ int main ()
 	do {
 		print_player_info (moves);
 		player_input(moves, arena);
-        print_arena(arena);
-        won = check_for_win(moves, arena);
+        	print_arena(arena);
+        	won = check_for_win(moves, arena);
 		moves++;
 	} while ((moves < MAX_ARENA * MAX_ARENA) && !won);
 	

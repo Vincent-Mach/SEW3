@@ -9,6 +9,6 @@ Zum Belegen des Arrays müssen vorher max. 10 Elemente eingelesen werden, der Be
 Zur Vedeutlichung ein Beispiel:
 
 
-vorher:    3 | 4 | 6 | 3 | 9 | 7 | 6 | 3 | 6 | 3
-       		---+---+---+---+---+---+---+---+---+---
-nachher: 	 3 | 4 | 6 | 9 | 7 | 0 | 0 | 0 | 0 | 0
+vorher   | 3 | 4 | 6 | 3 | 9 | 7 | 6 | 3 | 6 | 3
+-------- | - | - | - | - | - | - | - | - | - | -
+nachher  | 3 | 4 | 6 | 9 | 7 | 0 | 0 | 0 | 0 | 0

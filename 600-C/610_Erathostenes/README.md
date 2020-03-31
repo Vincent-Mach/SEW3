@@ -2,7 +2,7 @@
 
 ## Sieb des Erathostenes
 
-## Aufgabe:
+### Aufgabe:
 Mit Hilfe des klassischen Algorithmus "Sieb des Erathostenes" (ca. 300 v.Chr.) sollen alle Primzahlen (eine ganze Zahl > 1, die nur durch sich selbst und 1 teilbar ist) bis zu einer einzugebenden Obergrenze bestimmt werden.
 
 Da dies mit Divisionen sehr aufwändig ist, hatte Erathostenes folgende Idee:

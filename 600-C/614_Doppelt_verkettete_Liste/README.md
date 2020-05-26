@@ -7,6 +7,7 @@ Folgende Punkte sind zu erfüllen:
 - Die Liste ist nach artikel_name aufsteigend sortiert
 - Verwende eigene Elemente ohne Datenspeicher für das erste und letzte Element (wie in der Stunde besprochen)
 - Teste dein Programm, wichtig sind hier insbesondere die Ausnahmefälle (löschen von einem nicht existenten Element, löschen des ersten Elements, ...)
+- Teile dein Programm in mehrere Komponenten: Testprogramm, Funktionalität (Verkette Liste) + dazugehöriges Headerfile"
 
 Implementiere folgende Funktionalität:
 - Hinzufügen eines Elements
